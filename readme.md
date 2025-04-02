@@ -124,4 +124,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| De La Salle University | The purpose of the DLSU website is to provide information about the university's programs, services, and news, while promoting its academic excellence and community engagement.|dlsu.edu.ph |
