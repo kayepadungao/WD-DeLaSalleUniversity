@@ -9,11 +9,11 @@
     <img src="./assets/img/dlsu-logo.png" alt="De La Salle University" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">De La Salle University</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+ The DLSU website serves as an online platform offering comprehensive information about the university’s academic programs, admissions, campus life, research, and news, while fostering engagement with students, faculty, alumni, and the broader community.
 </div>
 
 <br />
@@ -59,13 +59,18 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This project involved designing and developing a website similar to De La Salle University's (DLSU) official platform, with the primary objective of providing a dynamic and user-friendly online space for students, faculty, staff, and visitors to access essential information. The website is structured to showcase academic programs, admissions procedures, research initiatives, campus events, and university news. It serves as an interactive and comprehensive resource hub for current and prospective students.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The project involved creating a website that closely mirrors the structure and functionality of De La Salle University's (DLSU) official site. It aimed to design an engaging, user-friendly platform for accessing information about academic programs, admissions, campus life, research, and university news.
+The purpose of this project was to develop a comprehensive, interactive website that provides essential information to students, prospective applicants, faculty, and staff. It serves as an online hub where users can easily find details about the university’s academic offerings, admission processes, and campus resources while ensuring ease of navigation across various devices.
+
+The website includes several key components: the Homepage, which highlights important announcements and provides quick access to various sections; Academic Programs, offering detailed information about degree programs, courses, and faculty; Admissions, providing prospective students with the application process, eligibility, and deadlines; Campus Life, detailing student organizations, events, and campus facilities; Research, showcasing the university’s research initiatives and collaborations; and News & Events, which keeps users updated with the latest university news and upcoming events. Additionally, the site features a Search Functionality, allowing users to quickly find specific content across the website.
+
+VS Code: Used as the integrated development environment (IDE) for writing and managing the website's code, allowing for efficient development and debugging.
+HTML & CSS: These were used to structure and style the content of the website. HTML formed the backbone of the website, while CSS handled the layout, typography, and overall design elements.
+JavaScript: Used to add interactivity to the website, such as form validations, dynamic content loading, and interactive event handling (like buttons and navigation menus). JavaScript also helped enhance user engagement by creating a responsive and smooth user experience.
+Responsive Design: CSS media queries were utilized to ensure the website’s responsiveness, making it accessible and properly formatted across desktops, tablets, and mobile devices.
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
